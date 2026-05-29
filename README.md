@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Midhun;Full+Stack+Developer+%F0%9F%9A%80;DevOps+Enthusiast+%E2%9A%A1;Java+%7C+MERN+%7C+Cloud+%7C+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Midhun;Full+Stack+Developer+🚀;DevOps+Enthusiast+⚡;Java+|+MERN+|+Cloud+|+Automation" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -7,25 +7,34 @@ Passionate Full Stack & DevOps Developer from India 🇮🇳
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=midhun7-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=midhun7-hub&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 # 💫 About Me
 
-- 🚀 Full Stack + DevOps Developer
-- 🌱 Exploring Cloud, Kubernetes & Automation
-- 💻 Passionate about MERN Stack & Java
-- ⚡ Love building scalable applications
-- 🎯 Focused on becoming a better developer every day
-- 🌍 Dreaming to travel the world through tech
+🚀 Full Stack & DevOps Developer
+
+💻 MERN Stack | Java | HTML | CSS | JavaScript | SQL
+
+☁️ Docker | Kubernetes | Terraform | Jenkins
+
+📊 Monitoring with Prometheus & Grafana
+
+🧠 DSA Enthusiast | LeetCode Solver
+
+🌱 Exploring Cloud Native Technologies
+
+🎯 Building scalable applications and automation solutions
+
+🌍 Dreaming of traveling the world through technology
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/midhun-balachandran-472214293/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -46,7 +55,7 @@ Passionate Full Stack & DevOps Developer from India 🇮🇳
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,react,express,mongodb,mysql,docker,kubernetes,terraform,jenkins,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,git,github,docker,kubernetes,terraform,jenkins,linux,vscode&perline=8" />
 </p>
 
 ---
@@ -63,7 +72,7 @@ Passionate Full Stack & DevOps Developer from India 🇮🇳
 
 <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql"/>
 
-<img src="https://img.shields.io/badge/Monitoring-Prometheus%20%7C%20Grafana-E6522C?style=for-the-badge&logo=prometheus"/>
+<img src="https://img.shields.io/badge/Monitoring-Prometheus%20|%20Grafana-E6522C?style=for-the-badge&logo=prometheus"/>
 
 </p>
 
@@ -72,9 +81,17 @@ Passionate Full Stack & DevOps Developer from India 🇮🇳
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=midhun7-hub&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhun7-hub&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=midhun7-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=midhun7-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/midhun_bala?theme=dark&font=Nunito&ext=contest"/>
 </p>
 
 ---
@@ -82,7 +99,15 @@ Passionate Full Stack & DevOps Developer from India 🇮🇳
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=midhun7-hub&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=midhun7-hub&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=midhun7-hub&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -126,10 +151,12 @@ Passionate Full Stack & DevOps Developer from India 🇮🇳
 # ✨ Quote
 
 <p align="center">
-  <i>"Code. Build. Automate. Repeat."</i>
+<i>"Code. Build. Automate. Repeat."</i>
 </p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=footer"/>
 
 <h3 align="center">
 ⭐ From <a href="https://github.com/midhun7-hub">midhun7-hub</a>
