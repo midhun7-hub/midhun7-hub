@@ -1,10 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Midhun;Full+Stack+Developer+🚀;DevOps+Enthusiast+⚡;Java+|+MERN+|+Cloud+|+Automation" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Midhun</h1>
 
 <h3 align="center">
-Passionate Full Stack & DevOps Developer from India 🇮🇳
+Full Stack Developer 🚀 | DevOps Enthusiast ⚡
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Developer;MERN+Stack+Developer;DevOps+Engineer;Cloud+%26+Automation+Enthusiast;LeetCode+Problem+Solver" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=midhun7-hub&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -81,9 +83,9 @@ Passionate Full Stack & DevOps Developer from India 🇮🇳
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=midhun7-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=midhun7-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=midhun7-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhun7-hub&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -91,7 +93,7 @@ Passionate Full Stack & DevOps Developer from India 🇮🇳
 # 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/midhun_bala?theme=dark&font=Nunito&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/midhun_bala?theme=dark&font=Nunito" />
 </p>
 
 ---
@@ -100,14 +102,6 @@ Passionate Full Stack & DevOps Developer from India 🇮🇳
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=midhun7-hub&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=midhun7-hub&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
