@@ -46,6 +46,10 @@ Full Stack Developer 🚀 | DevOps Enthusiast ⚡
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="http://midhun-portfolio.s3-website-us-east-1.amazonaws.com/#home" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
 <a href="https://github.com/midhun7-hub" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
