@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Midhun</h1>
 
 <h3 align="center">
-Full Stack Developer 🚀 | DevOps Enthusiast ⚡
+DevOps Enthusiast ⚡| Full Stack Developer 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Developer;MERN+Stack+Developer;DevOps+Engineer;Cloud+%26+Automation+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Java+Developer;MERN+Stack+Developer;Cloud+%26+Automation+Enthusiast" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ Full Stack Developer 🚀 | DevOps Enthusiast ⚡
 
 # 💫 About Me
 
-🚀 Full Stack & DevOps Developer
+DevOps Developer 
 
 💻 MERN Stack | Java | HTML | CSS | JavaScript | SQL
 
