@@ -1,136 +1,152 @@
-<h1 align="center">Hi 👋, I'm Midhun</h1>
+<div align="center">
 
-<h3 align="center">
-DevOps Enthusiast ⚡| Full Stack Developer 🚀
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Hi%20There,%20I'm%20Midhun%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Automation&descAlignY=55&descSize=18"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Java+Developer;MERN+Stack+Developer;Cloud+%26+Automation+Enthusiast" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%E2%9A%99%EF%B8%8F;Cloud+%26+Automation+Enthusiast+%E2%98%81%EF%B8%8F;CI%2FCD+Pipeline+Builder+%F0%9F%9A%80;Kubernetes+%26+Docker+Practitioner+%F0%9F%90%B3;MERN+Stack+Developer+%F0%9F%92%BB;Infrastructure+as+Code+with+Terraform+%F0%9F%8C%90"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=midhun7-hub&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=midhun7-hub&label=Profile%20Views&color=00c9ff&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/midhun7-hub?label=Followers&style=for-the-badge&color=0e75b6"/>
+
+</div>
 
 ---
 
-# 💫 About Me
+### 🖥️ System Status
 
-DevOps Developer 
+```
 
-💻 MERN Stack | Java | HTML | CSS | JavaScript | SQL
+┌──────────────────────────────────────────────────────────────┐
+│   ☁️   midhun@devops-cloud   ~   %  status --verbose         │
+├──────────────────────────────────────────────────────────────┤
+│                                                                │
+│        ⎈   ⎈   ⎈           Role      : DevOps & Full Stack Dev │
+│      ⎈  🐳  ⎈             Focus     : Cloud Native Systems    │
+│        ⎈   ⎈   ⎈           Stack     : MERN + Java            │
+│                                                                │
+│   Pipeline........ [██████████████████████░░░] 92% Automated │
+│   Uptime.......... Always learning, always deploying         │
+│   Containers...... docker ps --all  →  running               │
+│   Infra........... terraform apply  →  no changes needed     │
+│   Monitoring...... prometheus + grafana  →  all systems green│
+│                                                                │
+│   Languages....... Java, JavaScript, SQL, HTML, CSS           │
+│   Cloud........... AWS | Azure | GCP (learning)                │
+│   Mission......... Build it. Ship it. Automate it. Scale it. │
+│                                                                │
+└──────────────────────────────────────────────────────────────┘
 
-☁️ Docker | Kubernetes | Terraform | Jenkins
-
-📊 Monitoring with Prometheus & Grafana
-
-🧠 DSA Enthusiast | LeetCode Solver
-
-🌱 Exploring Cloud Native Technologies
-
-🎯 Building scalable applications and automation solutions
-
-🌍 Dreaming of traveling the world through technology
+```
 
 ---
 
-# 🌐 Connect With Me
+## 💫 About Me
+
+- ⚙️ **DevOps Engineer** passionate about building reliable, automated, self-healing systems
+- ☁️ Working across **AWS**, containers, and Infrastructure as Code
+- 🐳 Comfortable with **Docker & Kubernetes** for container orchestration
+- 🔧 Building CI/CD pipelines with **Jenkins** and automating infra with **Terraform & Ansible**
+- 📊 Monitoring & observability using **Prometheus & Grafana**
+- 💻 Full Stack development with the **MERN stack** and **Java**
+- 🧠 DSA enthusiast & active **LeetCode** problem solver
+- 🌱 Currently exploring **Cloud Native** and **GitOps** practices
+- 🎯 Goal: designing scalable, automated, cloud-native applications end-to-end
+- 🌍 Dreaming of traveling the world through technology
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/midhun-balachandran-472214293/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://leetcode.com/u/midhun_bala/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
-<a href="http://midhun-portfolio.s3-website-us-east-1.amazonaws.com/#home" target="_blank">
+<a href="http://midhun-portfolio7.s3-website.ap-south-1.amazonaws.com/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
-
 <a href="https://github.com/midhun7-hub" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-# 💻 Tech Stack
+## ☁️ DevOps & Cloud Toolkit
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,git,github,docker,kubernetes,terraform,jenkins,linux,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,git,github,gitlab,linux,aws,gcp,azure,nginx,grafana,prometheus,elasticsearch,vscode,bash,vim&perline=10"/>
 </p>
-
----
-
-# ⚡ Core Skills
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/MERN-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-
-<img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-
-<img src="https://img.shields.io/badge/Java-OOPs-orange?style=for-the-badge&logo=openjdk"/>
-
-<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/Monitoring-Prometheus%20|%20Grafana-E6522C?style=for-the-badge&logo=prometheus"/>
-
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
-
 
 ---
 
-# 🧠 LeetCode Stats
+## 💻 Full Stack (MERN) Toolkit
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/midhun_bala?theme=dark&font=Nunito" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,mysql,postgres,tailwind,bootstrap,java,spring,postman&perline=8"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=midhun7-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhun7-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=midhun7-hub&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 📈 Contribution Graph
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=midhun7-hub&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-# 🛠 DevOps & Tools
-
 <p align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=midhun7-hub&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/midhun_bala?theme=dark&font=Nunito"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/midhun7-hub/midhun7-hub/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
@@ -138,16 +154,12 @@ DevOps Developer
 
 ---
 
-# ✨ Quote
+<div align="center">
 
-<p align="center">
-<i>"Code. Build. Automate. Repeat."</i>
-</p>
+### ✨ "Code. Build. Automate. Repeat." ✨
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:0f2027&height=120&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=footer"/>
+**⭐ From [midhun7-hub](https://github.com/midhun7-hub)**
 
-<h3 align="center">
-⭐ From <a href="https://github.com/midhun7-hub">midhun7-hub</a>
-</h3>
+</div>
